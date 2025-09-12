@@ -3,6 +3,7 @@
 ## Connections
 
 | DS3231 | Raspberry Pi Pico | Pin |
+| ------ | ----------------- | --- |
 | GND    | GND               |   8 |
 | SDA    | GP6               |   9 |
 | SCL    | GP7               |  10 |
