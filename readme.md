@@ -15,4 +15,5 @@
 ### Points of interest
 
 * [Character Map](mmbasic/charmap)
+
 ![Character Map screenshot 1](mmbasic/charmap/charmap1.jpg)
