@@ -16,4 +16,4 @@
 
 * [Character Map](mmbasic/charmap)
 
-![Character Map screenshot 1](mmbasic/charmap/charmap1.jpg)
+<img src="mmbasic/charmap/charmap1.jpg" width="640" height="640">

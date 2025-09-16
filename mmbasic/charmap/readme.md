@@ -9,6 +9,6 @@ It also magnifies the selected character for better visibility.
 
 ### Screenshots
 
-![Character Map screenshot 1](charmap1.jpg)
+<img src="charmap1.jpg" width="640" height="640">
 
-![Character Map screenshot 2](charmap2.jpg)
+<img src="charmap2.jpg" width="640" height="640">
