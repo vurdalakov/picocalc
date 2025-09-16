@@ -1,6 +1,6 @@
 # PicoCalc RTC mod with DS3231
 
-## Connections
+### Connections
 
 | DS3231 | Raspberry Pi Pico | Pin |
 | ------ | ----------------- | --- |
@@ -9,7 +9,7 @@
 | SCL    | GP7               |  10 |
 | VCC    | 3V3(OUT)          |  36 |
 
-## Initialization
+### Initialization
 
 1. Enable RTC in MMBasic:
     ```
@@ -28,6 +28,6 @@
     print date$, time$
     ```
 
-## Notes
+### Notes
 
 * PicoMite User Manual: *"The command OPTION RTC AUTO ENABLE can also be used to set an automatic update of the TIME$ and DATE$ read only variables from the real time clock chip on boot and every hour."*
